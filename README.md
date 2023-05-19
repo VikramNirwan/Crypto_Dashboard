@@ -6,7 +6,7 @@ It offers a comprehensive overview of the cryptocurrency market, including price
 
 It also offers advanced features such as portfolio management, allowing users to monitor and analyze their cryptocurrency investments in one centralized platform.
 
-# Visit https://vn-crypto-dashboard-app.netlify.app/ to view demo and various features of the app.
+# Demo Link https://vn-crypto-dashboard-app.netlify.app/ 
 
 # Tech Used
 
