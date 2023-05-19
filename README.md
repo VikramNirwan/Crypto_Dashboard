@@ -8,14 +8,14 @@ It also offers advanced features such as portfolio management, allowing users to
 
 # Tech Used
 
-JavaScript
-ReactJS
-Tailwind CSS
-Redux
-Redux Thunk
-ReactJS
-ContextApi
-Chartjs
+JavaScript,
+ReactJS,
+Tailwind CSS,
+Redux,
+Redux Thunk,
+ReactJS,
+ContextApi,
+Chartjs,
 CoinGeckoAPI
 
 # Key features of CryptoDashboard App
