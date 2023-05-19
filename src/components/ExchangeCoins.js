@@ -23,7 +23,7 @@ export const ExchangeCoins = () => {
 
   const convert = () => {
     const unit = Object.values(coin).find((unit) => {
-      return unit.value == value2;
+      return (unit.value = value2);
     });
     // console.log('unit',unit,'value2',value2)
     console.log("value", Object.values(coin));
